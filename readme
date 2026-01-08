@@ -1,0 +1,2 @@
+chmod +x setup-ai-testgen.sh
+./setup-ai-testgen.sh
